@@ -1,0 +1,8 @@
+SECRET_KEY=django-insecure-eez0$xhrjkh*bztsuxlc^=%-95mooo&kz4padwp+0@6ia0ci=z
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1,localhost,0.0.0.0
+POSTGRES_DB=mydatabase
+POSTGRES_USER=myuser
+POSTGRES_PASSWORD=mypassword
+DATABASE_HOST=db
+DATABASE_PORT=5432
