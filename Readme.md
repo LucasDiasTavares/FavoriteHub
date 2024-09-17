@@ -89,9 +89,6 @@ Gerencia as listas de favoritos de cada cliente.
 - **POST /api/favorites/{id}/add_product/**: Adiciona um produto à lista de favoritos de um cliente em específico.
 - **POST /api/favorites/{id}/remove_product/**: Remove um produto da lista de favoritos de um cliente em específico.
 
-### ReviewCreateView
-- **POST /api/reviews/**: Adiciona uma avaliação para um produto em específico.
-
 ## Funcionalidades
 
 ### Criar Lista de Favoritos
